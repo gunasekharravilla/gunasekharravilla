@@ -1,7 +1,8 @@
 ### Hi there 👋 Still in Editing mode of readme.md comeback again for better interface
+<p align="center">
+<img src=https://user-images.githubusercontent.com/53616269/109039870-4c0d4280-76f3-11eb-868c-4a4da75e62f7.png alt='Hireme'></img>
+</p>
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Github Readme
 - 🌱 I’m currently learning ...Flutter
@@ -12,6 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...Gunasekhar
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+   <code>Visitor count</code>
+   <img src="https://profile-counter.glitch.me/gunasekharravilla/count.svg" />
+  
+   <br>
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunasekharravilla%2Fhit-counter&count_bg=%23F70000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    
+   <br>
+   <a href="https://profile-summary-for-github.com/user/gunasekharravilla">Profile Summary</a>
+  </p>
+
 
 ### You can Contact Me Anytime
 
