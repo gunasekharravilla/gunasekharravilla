@@ -1,11 +1,11 @@
-### Hi there 👋 Still in Editing mode of readme.md comeback again for better interface
+### Hi there 👋 
 <p align="center">
 <img src=https://user-images.githubusercontent.com/53616269/109039870-4c0d4280-76f3-11eb-868c-4a4da75e62f7.png alt='Hireme'></img>
 </p>
 
 
 
-- 🔭 I’m currently working on ...Github Readme
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...Flutter
 - 👯 I’m looking to collaborate on ... Anywhere
 - 🤔 I’m looking for help with ...
