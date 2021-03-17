@@ -28,7 +28,7 @@ I'm Gunasekhar Ravilla</h1>
 
 
 
-### You can Contact Me Anytime
+### You can Contact Me Anytime. 
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ravilla.guna/)
 [![Linkedin](https://img.shields.io/badge/gunasekharravilla-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunasekharravilla)
@@ -57,7 +57,8 @@ I'm Gunasekhar Ravilla</h1>
 
 
 
-## 💼 Skills
+## 💼 Skills. 
+
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
