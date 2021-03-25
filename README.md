@@ -39,6 +39,12 @@ I'm Gunasekhar Ravilla</h1>
 [![Instagram](https://img.shields.io/badge/@gunasekharravilla%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white")](https://www.instagram.com/gunasekharravilla/)
 [![Instagram](https://img.shields.io/badge/rgunasekhar%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white")](https://www.snapchat.com/add/rgunasekhar)
 
+
+### 🏆 Github Profile Tropy
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunasekharravilla" alt="gunasekharravilla" /></a> </p>
+
+
 ### Github Streak 🔥🔥
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunasekharravilla&" alt="Gunasekhar Ravilla" /></p>
