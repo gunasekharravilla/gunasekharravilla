@@ -48,20 +48,20 @@ I'm Gunasekhar Ravilla</h1>
 
 ### Github Streak 🔥🔥
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunasekharravilla&" alt="Gunasekhar Ravilla" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunasekharravilla" alt="Gunasekhar Ravilla" /></p>
 
 
 ### Github Stats
 
 
-[![Gunasekhar Ravilla's github stats](https://github-readme-stats.vercel.app/api?username=gunasekharravilla&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800)](https://github.com/gunasekharravilla)
+[![Gunasekhar Ravilla's github stats](https://github-readme-stats.vercel.app/api?username=gunasekharravilla&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=100)](https://github-readme-stats.vercel.app/api?username=gunasekharravilla&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=100)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunasekharravilla&show_icons=true&theme=buefy&layout=compact&cache_seconds=100&langs_count=10)](https://github.com/gunasekharravilla)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunasekharravilla&show_icons=true&theme=buefy&layout=compact&cache_seconds=100&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=gunasekharravilla&show_icons=true&theme=buefy&layout=compact&cache_seconds=100&langs_count=10)
 
 ### Gunasekhar Ravilla's wakatime stats
 
-[![Gunasekhar Ravilla's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gunasekhar&layout=compact&bg_color=ffffff)](https://github.com/gunasekharravilla)
+[![Gunasekhar Ravilla's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gunasekhar&layout=compact&bg_color=ffffff)](https://github-readme-stats.vercel.app/api/wakatime?username=gunasekhar&layout=compact&bg_color=ffffff)
 
 
 
