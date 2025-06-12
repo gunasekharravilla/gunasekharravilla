@@ -1,102 +1,127 @@
-<h1 align="center">Hi Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Gunasekhar Ravilla</h1>
-<h3 align="center">A passionate Full Stack And Flutter Developer from India</h3>
+# Hi there! 👋 I'm Gunasekhar Ravilla
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E96F7&width=435&lines=Full+Stack+Engineer;Flutter+Developer;AI%2FML+Enthusiast;Innovation+Lab+Engineer" alt="Typing SVG" />
+</div>
 
+## 🚀 About Me
 
+**Senior Full Stack & AI/ML Engineer** with M.Tech in Computer Science and 4+ years of experience delivering innovative, scalable solutions in HR/payroll systems, workflow automation, and agentic AI integration. Currently working at **Ramco Systems** in Singapore, focusing on cutting-edge automation and AI-driven process optimization.
 
+- 🔬 **Current Role**: Senior Full Stack & AI/ML Engineer at Ramco Systems (Innovation Lab)
+- 🎓 **Education**: M.Tech in Computer Software Engineering from Vellore Institute of Technology
+- 🌍 **Location**: Singapore
+- 📧 **Contact**: [LinkedIn](https://www.linkedin.com/in/gunasekharravilla)
 
-- 🔭 I’m currently working on .... Flutter Android Apps,Chat Bots,Reactjs 
-- 🌱 I’m currently learning ...Flutter
-- 👯 I’m looking to collaborate on ... Anywhere
-- 🤔 I’m looking for help with ... Neo4j 
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... Instagram
-- 😄 Pronouns: ...Gunasekhar
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Highlights
 
+### 🏢 **Ramco Systems** - Senior Full Stack & AI/ML Engineer *(Jan 2024 - Present)*
+- **Workflow Automation**: Architected React, Go, and Temporal-based solutions for scalable HR/payroll automation, improving system reliability and performance
+- **AI Integration**: Designed dynamic forms framework enabling rapid deployment across global jurisdictions, reducing time-to-market by 50%
+- **Process Optimization**: Developed agentic AI for intelligent workflow optimization, cutting manual tasks by 35%
+- **Innovation**: Built RAG-based chatbots and policy validation systems, enhancing user engagement and compliance automation
 
-<p align="center">
-   <code>Visitor count</code>
-   <img src="https://profile-counter.glitch.me/gunasekharravilla/count.svg" />
-  
-   <br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunasekharravilla%2Fhit-counter&count_bg=%23F70000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-    
-   <br>
-   <a href="https://profile-summary-for-github.com/user/gunasekharravilla">Profile Summary</a>
-  </p>
+### 🏢 **Ramco Systems** - Junior Full Stack Developer *(Jul 2021 - Dec 2023)*
+- **Intelligent Automation**: Built autonomous business workflow monitoring, reducing manual intervention by 35%
+- **ERP Solutions**: Engineered BRP solutions for Payroll, Aviation, and Logistics industries
+- **Performance Enhancement**: Enhanced Facial Recognition System for high-traffic scenarios, improving client throughput by 60%
+- **Innovation Projects**: Developed RaSE scraping engine and modernized legacy platforms
 
+## 🛠️ Technical Arsenal
 
+### **Languages & Frameworks**
+```javascript
+const skills = {
+  frontend: ['React.js', 'Flutter', 'Angular', 'TypeScript', 'CSS3', 'HTML5'],
+  backend: ['Node.js', 'Python', 'Java', 'Go', 'Express.js', 'REST APIs'],
+  mobile: ['Flutter', 'Android Development'],
+  database: ['MongoDB', 'MySQL', 'GraphQL'],
+  ai_ml: ['RAG', 'LangChain', 'Microsoft Bot Framework', 'LUIS AI'],
+  cloud: ['Firebase', 'Google Cloud', 'Azure', 'Heroku', 'Vercel'],
+  tools: ['Docker', 'Git', 'Temporal', 'Microservices', 'IoT', 'n8n']
+};
+```
 
-### You can Contact Me Anytime. 
+### **Specialized Skills**
+- **Workflow Automation** - Temporal, Process Optimization, Intelligent Agent-based Automation
+- **AI/ML Integration** - RAG frameworks, LangChain, Conversational AI, Policy Validation
+- **Low-code/No-code** - Dynamic form frameworks, Rapid deployment solutions
+- **Leadership** - Technical leadership, Code reviews, Mentoring engineers
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ravilla.guna/)
-[![Linkedin](https://img.shields.io/badge/gunasekharravilla-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunasekharravilla)
-[![Twitter](https://img.shields.io/badge/@guna298%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/guna298)
-[![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10787379/ravilla-gunasekhar)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gunasekharravilla&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunasekharravilla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunasekharravilla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gunasekharravilla&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+</div>
+
+## 🏆 Key Achievements
+
+- 🎯 **50% Reduction** in time-to-market for new country roll-outs through dynamic forms framework
+- 📈 **35% Increase** in operational efficiency through intelligent workflow automation
+- 🚀 **60% Improvement** in client throughput via enhanced facial recognition system
+- 🤖 **AI-Powered Solutions** - Built multiple RAG-based chatbots and policy validation systems
+- 💡 **Innovation Leadership** - Led technical excellence initiatives and continuous learning culture
+
+## 🔥 Featured Projects
+
+### 🤖 **Intelligent Workflow Automation Platform**
+- **Tech Stack**: React, Go, Temporal, MongoDB
+- **Impact**: 35% reduction in manual tasks, real-time business process monitoring
+- **Innovation**: Agentic AI integration for autonomous optimization
+
+### 📱 **Dynamic Forms Framework**
+- **Tech Stack**: React, Node.js, GraphQL
+- **Impact**: 50% faster deployment across global jurisdictions
+- **Scale**: Supports tax declaration forms for multiple countries
+
+### 🧠 **RAG-based Chatbot System**
+- **Tech Stack**: Python, LangChain, Microsoft Bot Framework
+- **Features**: Policy validation, contextual HR query resolution
+- **Performance**: Enhanced user engagement and automated compliance
+
+## 📈 Professional Timeline
+
+```
+2024-Present  │ Senior Full Stack & AI/ML Engineer @ Ramco Systems (Singapore)
+2021-2023     │ Junior Full Stack Developer @ Ramco Systems (Singapore)
+2016-2021     │ M.Tech Computer Science @ VIT Chennai
+```
+
+## 🌟 What I'm Working On
+
+- 🤖 Advanced AI agent frameworks for business process automation
+- 🔄 Real-time workflow optimization using machine learning
+- 📊 Predictive analytics for HR and payroll systems
+- 🌐 Cross-platform mobile solutions with Flutter
+- 📚 Contributing to open-source AI/ML projects
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunasekharravilla)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gunasekharravilla/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guna298)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/40snuq)
-[![Instagram](https://img.shields.io/badge/@gunasekharravilla%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white")](https://www.instagram.com/gunasekharravilla/)
-[![Instagram](https://img.shields.io/badge/rgunasekhar%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white")](https://www.snapchat.com/add/rgunasekhar)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10787379/ravilla-gunasekhar)
 
+</div>
 
-### 🏆 Github Profile Tropy
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunasekharravilla" alt="gunasekharravilla" /></a> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gunasekharravilla&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
-
-### Github Streak 🔥🔥
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunasekharravilla" alt="Gunasekhar Ravilla" /></p>
-
-
-### Github Stats
-
-
-[![Gunasekhar Ravilla's github stats](https://github-readme-stats.vercel.app/api?username=gunasekharravilla&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=100)](https://github-readme-stats.vercel.app/api?username=gunasekharravilla&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=100)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunasekharravilla&show_icons=true&theme=buefy&layout=compact&cache_seconds=100&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=gunasekharravilla&show_icons=true&theme=buefy&layout=compact&cache_seconds=100&langs_count=10)
-
-### Gunasekhar Ravilla's wakatime stats
-
-[![Gunasekhar Ravilla's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gunasekhar&layout=compact&bg_color=ffffff)](https://github-readme-stats.vercel.app/api/wakatime?username=gunasekhar&layout=compact&bg_color=ffffff)
-
-
-
-## 💼 Skills. 
-
-
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=Html&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<br>
-
-
-<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-<img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-<img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-
-
-</details>
+<div align="center">
+  <i>💡 "Innovation distinguishes between a leader and a follower" - Let's build the future together!</i>
+</div>
