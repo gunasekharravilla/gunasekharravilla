@@ -61,7 +61,7 @@
 - 🎯 **Efficiency Master**: Built intelligent workflow monitoring reducing manual tasks by **35%**
 - 👁️ **Vision Enhanced**: Supercharged facial recognition system improving throughput by **60%**
 - 🔧 **Legacy Modernizer**: Transformed outdated platforms with modern tech stacks
-- 📊 **Data Innovator**: Developed RaSE scraping engine for compliance monitoring
+- 📊 **Data Innovator**: Developed RaiSE scraping engine for compliance monitoring
 - 🌐 **Industry Solutions**: Delivered ERP solutions for Payroll, Aviation, and Logistics
 
 #### 🛠️ **Tech Stack**
